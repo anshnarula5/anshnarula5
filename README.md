@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Narula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshnarula5&label=Profile%20views&color=0e75b6&style=flat" alt="anshnarula5" /> </p>
 
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **anshnarula55@gmail.com**
 
-- ⚡ Fun fact **Beat me at chess ♟️!**
-
-<p align="right">![undraw_hacker_mind_6y85](https://user-images.githubusercontent.com/66325953/150543080-2fdcf587-d7e9-442e-a95e-ea9837a1d02a.png)</p>
+- ⚡ **Beat me at [chess](https://www.chess.com/member/ansh_055) ♟️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
