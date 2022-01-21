@@ -14,6 +14,7 @@
 - 💬 Ask me about **React, Redux, Javascript, Node.js, REST api's**
 
 - 📫 How to reach me **anshnarula55@gmail.com**
+![undraw_hacker_mind_6y85](https://user-images.githubusercontent.com/66325953/150543080-2fdcf587-d7e9-442e-a95e-ea9837a1d02a.png)
 
 - ⚡ Fun fact **Beat me at chess ♟️!**
 
