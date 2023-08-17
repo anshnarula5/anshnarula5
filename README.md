@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native and DSA**
 
-- 👨‍💻 All of my projects are available at [https://anshnarula.vercel.app/](https://anshnarula.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anshnarula.vercel.app/](https://xanshnarula.vercel.app/)
 
 - 💬 Ask me about **React, Redux, Javascript, Node.js, REST api's**
 
